@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\bin\Debug\ProgramAutoStarter.exe
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\bin\Debug\ProgramAutoStarter.pdb
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.Form1.resources
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.Properties.Resources.resources
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.exe
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ProgramAutoStarter.pdb
+D:\VisualStudioProjects\C#\ProgramAutoStarter\ProgramAutoStarter\obj\Debug\ConfigDefender.PassForm.resources
